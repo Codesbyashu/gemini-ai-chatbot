@@ -78,11 +78,15 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 streamlit run app.py
 ```
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-mv "screenshots/Screenshot 2026-06-24 at 3.16.51 PM.png" screenshots/home.png
+### Home Page
+![Home Page](screenshots/Screenshot%202026-06-24%20at%203.16.51%E2%80%AFPM.png)
 
-mv "screenshots/Screenshot 2026-06-24 at 3.17.18 PM.png" screenshots/chat-response.png
+### Chat Response
+![Chat Response](screenshots/Screenshot%202026-06-24%20at%203.17.18%E2%80%AFPM.png)
+
+
 ## 🎯 Future Improvements
 
 * Chat History
