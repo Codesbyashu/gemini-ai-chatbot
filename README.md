@@ -34,7 +34,7 @@ Gemini-AI-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gemini-ai-chatbot.git
+git clone https://github.com/Codesbyashu/gemini-ai-chatbot.git
 cd gemini-ai-chatbot
 ```
 
@@ -80,8 +80,9 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-Add screenshots of your chatbot here.
+mv "screenshots/Screenshot 2026-06-24 at 3.16.51 PM.png" screenshots/home.png
 
+mv "screenshots/Screenshot 2026-06-24 at 3.17.18 PM.png" screenshots/chat-response.png
 ## 🎯 Future Improvements
 
 * Chat History
